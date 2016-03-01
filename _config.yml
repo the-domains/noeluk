@@ -1,0 +1,28 @@
+name: NoëlUK
+favicon: null
+layout_spectrum: 0.5450331179890782
+typography_spectrum: 0.5625268155708909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9933004649356008
+  lightness: 0.47433930332772434
+  saturation: 0.7952389304991812
+  rhythmicContrast: 0.3161522631999105
+purpose: []
